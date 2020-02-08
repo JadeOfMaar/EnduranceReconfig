@@ -1,0 +1,15 @@
+// # Wishlist
+// * stack symmetry on main ring
+// * add docking node on stowable crewed modules
+// * add docking node on insides of main ship modules with mounting spaces
+// * make main engines into high-order, sub-epstein, mono-fueled
+// * make small ranger aerospike engins single mode and better
+// * make all engines, RCS, tanks use LF + EC or LH2 + EC
+// * make all tanks use B9PS or MFT and better
+// * remove all monopropellant
+// * paint all-purpose docking port to show up alignment
+// * change plumes
+// * add collider to deployable flag post. it's not selectable in the editor after dropping or attaching it
+// * make EC generators toggle-able and consume a fuel
+// * change parts to use emm shader and add lights module
+
