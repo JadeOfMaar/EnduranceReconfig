@@ -1,0 +1,25 @@
+{
+	"NAME":"Endurance Reconfig",
+	"DOWNLOAD":"https://github.com/JadeOfMaar/EnduranceReconfig/releases",
+	"URL":"https://github.com/JadeOfMaar/EnduranceReconfig/blob/master/GameData/EnduranceReconfig/Version/EnduranceReconfig.version",
+	"CHANGE_LOG_URL":"https://github.com/JadeOfMaar/EnduranceReconfig/blob/master/GameData/EnduranceReconfig/Version/Changelog.txt",
+	"GITHUB":
+	{
+		"USERNAME":"JadeOfMaar",
+		"REPOSITORY":"https://github.com/JadeOfMaar/EnduranceReconfig",
+		"ALLOW_PRE_RELEASE":true,
+	},
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":9,
+		"PATCH":0
+	}
+}
