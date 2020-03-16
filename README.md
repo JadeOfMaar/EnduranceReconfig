@@ -11,9 +11,10 @@ This mod performs the following:
 * Fixes the Viper/Mini-Ranger to:
   * Have some stack nodes for mounting onto other parts/vessels.
 * Makes the engines and RCS use only LiquidFuel and ElectricCharge, and raises their Isp and their Electrical demands to practical high levels. These buffs make Endurance much more fit for use in a large kerbal universe, whether an upscaled one or one with many star systems.
-  * Makes use of LqdHydrogen instead of LiquidFuel in CRP (when Rational Resources, CryoEngines or Kerbal Atomics present).
+  * Makes use of LqdHydrogen instead of LiquidFuel in CRP (when Rational Resources, CryoEngines or Kerbal Atomics are present).
   * Makes use of Propellium instead of LiquidFuel in WBI Classic Stock.
   * LiquidFuel replacement also applies to fuel cells.
+* Moves some parts further along in the tech tree (when CTT is present) due to their fusion power natures.
 * Replaces the basic, high-powered generator module with convincing fuel cells and Tokamak-alike fusion power sources.
 * Changes ElectricCharge tankage and changes tanks to use B9 Part Switch or WBI OmniStorage.
 * Integrates parts with WBI Pathfinder and Snacks for a very complete gameplay feature set.
