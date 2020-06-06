@@ -21,5 +21,5 @@ This mod performs the following:
 * Changes ElectricCharge tankage and changes tanks to use B9 Part Switch or WBI OmniStorage.
 * Integrates parts with WBI Pathfinder and Snacks for a very complete gameplay feature set.
   * Changes habitability assessment experiment into 2x WBT experiments that require time and resources and only fully functions at some worlds.
-  * Makes crewed parts configurale in-flight.
+  * Makes crewed parts configurable in-flight.
   * Provides life support mod integration only for WBI Snacks.
